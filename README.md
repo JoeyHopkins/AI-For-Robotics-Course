@@ -14,5 +14,5 @@ p2_1DKalmanFilters.py
 Using measurement updates and predictions, the theoretical robot is able to calculate an objects next estimated location in a 1d space
 
 
-p3_KaymanFilters
+p3_KalmanFilters
 Similar to the previous one but with a multi demensional space
